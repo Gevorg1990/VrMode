@@ -29,3 +29,11 @@ HTMLText_C6BCF012_D61E_78E2_41DA_1FF9419E11EC.html = <div style="text-align:left
 
 ### Title
 tour.name = Untitled 1
+
+## VR Menu
+
+### Text
+Menu_C298A27E_D626_9922_41D1_D929416EE3C3.label = Media
+MenuItem_C29AA2A4_D626_9925_4184_2D727748F398.label = pano 1
+MenuItem_C29AC2A4_D626_9925_41B3_A70CFBBFABCB.label = pano 2
+MenuItem_C29AD2A4_D626_9925_41E5_F1C960A1670C.label = pano 3
