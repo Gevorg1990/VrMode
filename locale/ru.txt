@@ -1,0 +1,31 @@
+#: locale=ru
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_C1A3C11E_D2CA_B8C8_41C1_19BCF3900173.text = Go To badromm
+
+## Media
+
+### Audio
+audiores_DE31E3E9_D1DB_7F4B_41E7_86BC5016B367.mp3Url = media/audio_C15A88C0_D1DA_A9B8_41E3_C72150EAD281_ru.mp3
+
+### Image
+imlevel_C06FECDF_D2CA_E948_41CF_E49D03683744.url = media/panorama_DD34D7E5_D1BA_E778_41D3_4AB9F0B380F8_HS_m516x6la_ru.png
+
+### Title
+panorama_DD34D7E5_D1BA_E778_41D3_4AB9F0B380F8.label = pano 1
+panorama_DCE731C5_D1CD_BBB8_41E0_51EA2E1E1BFB.label = pano 2
+panorama_DD7A48AF_D1CD_A9C7_41E9_58391ADE2BC0.label = pano 3
+
+## Skin
+
+### Multiline Text
+HTMLText_C6BCF012_D61E_78E2_41DA_1FF9419E11EC.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:37px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0099ff;font-size:37px;"><B>{{title}}</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:22px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;"> </SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 1
